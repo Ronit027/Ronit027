@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development, Quantitative Analytics**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ronit-roy-987446210/](https://www.linkedin.com/in/ronit-roy-987446210/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ronit-roy-987446210](https://www.linkedin.com/in/ronit-roy-987446210)
 
 - 📫 How to reach me **ronitroy10june@gmail.com**
 
