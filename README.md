@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronit027&label=Profile%20views&color=0e75b6&style=flat" alt="ronit027" /> </p>
 
-- 🌱 I’m currently learning **Web Development, Quantitative Analytics**
+- 🌱 I’m currently learning **Web Development and Quantitative Analytics**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ronit-roy-987446210](https://www.linkedin.com/in/ronit-roy-987446210)
 
